@@ -8,9 +8,9 @@ download Visual studio code from:
 
 ## Pros
 
- - it's <strong>free</strong>
- - fully <em>customizable</em>
- - fast & lightweight
+ - it's **free**
+ - fully *customizable*
+ - lots of extensions to provide support for new languages
  
 ## Cons
 
