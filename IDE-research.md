@@ -23,10 +23,9 @@ download Visual studio code from:
 
 
  
- | Tables        | Are           | Cool  |
- | ------------- |:-------------:| -----:|
- | X    | X | X |
- | Y         | Y    |   Y |
+ | Table       | Of           | Animals  |
+ | :------------: |:-------------:| :-----:|
+ | :monkey:| :elephant: | :tiger:
  | zebra  | Koala      | lion |
  
  now let's just show you a smiling emoji 
