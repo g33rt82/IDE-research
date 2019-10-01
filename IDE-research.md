@@ -16,28 +16,24 @@ download Visual studio code from:
 
 1. no full sett of features of normal IDE
 1. support for multiple languages
-1.10
+1. steep learning curve
 
-<h4>Why VS Code</h4>
-Because we agreed on it!
-
-</br>
  
- | look       | A             | Table  |
+ | Tables        | Are           | Cool  |
  | ------------- |:-------------:| -----:|
- This    | is| Row1 |
- This      | is| Row2|
- This      | is| Row3 |
+ | col 3 is      | right-aligned | $1600 |
+ | col 2 is      | centered      |   $12 |
+ | zebra stripes | are neat      |    $1 |
  
-some  html code in a code block
+ now let's just show you a smiling emoji 
+ :smiley:
+ 
+ My taskist
+ 
+ * [x] learning something new
+ * [x] have fun in the mean time
+ * [ ] go home
 
-```
-<p>Hello, my name is Geert and I'm a student @ becode</p>
-```
- > Blockquotes are very handy in email to emulate reply text.
- > This line is part of the same quote.
- 
 
- now let's just show you a smiling emoji of a penguin
- 
-  :penguin:
+[Back to the fields](/1.The-Fields/)
+
