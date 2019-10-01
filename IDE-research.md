@@ -18,12 +18,16 @@ download Visual studio code from:
 1. support for multiple languages
 1. steep learning curve
 
+## Why VS code?
+ >it's the best of the free IDE's, what a quote that is!
+
+
  
  | Tables        | Are           | Cool  |
  | ------------- |:-------------:| -----:|
- | col 3 is      | right-aligned | $1600 |
- | col 2 is      | centered      |   $12 |
- | zebra stripes | are neat      |    $1 |
+ | X    | X | X |
+ | Y         | Y    |   Y |
+ | zebra  | Koala      | lion |
  
  now let's just show you a smiling emoji 
  :smiley:
