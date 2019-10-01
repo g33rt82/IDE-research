@@ -1,4 +1,4 @@
-<h1>Visual Studio Code</h1>
+#Visual Studio Code
 
 ![]( vs_code_image.svg)
 
@@ -18,10 +18,10 @@ download Visual studio code from:
 1. support for multiple languages
 1. steep learning curve
 
-## Why VS code?
- >it's the best of the free IDE's, what a quote that is!
+### Why VS code?
+ >it's a great ide for newbies. Not to difficult to start with and lot of support
 
-
+since we needed a table
  
  | Table       | Of           | Animals  |
  | :------------: |:-------------:| :-----:|
